@@ -1,0 +1,39 @@
+.footer {
+    width: 100%;
+    padding: 50px 10%;
+    background: #081120;
+    text-align: center;
+    color: white;
+}
+
+.footer h2 {
+    font-size: 35px;
+    margin-bottom: 15px;
+    color: #ec4899;
+}
+
+.footer p {
+    margin-bottom: 25px;
+    color: #cbd5e1;
+}
+
+.footer-icons {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    margin-bottom: 30px;
+}
+
+.footer-icons a {
+    text-decoration: none;
+    color: white;
+    transition: 0.3s;
+}
+
+.footer-icons a:hover {
+    color: #ec4899;
+}
+
+.footer h4 {
+    color: #94a3b8;
+}

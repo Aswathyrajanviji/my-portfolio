@@ -1,0 +1,69 @@
+.resume {
+  width: 100%;
+  padding: 100px 10%;
+  background: #fff7ed;
+
+  margin-top: 50px;
+}
+
+.resume-section {
+  width: 100%;
+  padding: 200px 10%;
+  background: #f7ddb8;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.resume-left {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+
+.resume-icon {
+  font-size: 60px;
+}
+
+.resume-left h2 {
+  font-size: 35px;
+  margin-bottom: 10px;
+}
+
+.resume-left p {
+  margin-bottom: 15px;
+  color: #555;
+}
+
+.resume-left button {
+  padding: 12px 25px;
+  border: none;
+  background: orange;
+  color: white;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+.timeline {
+  display: flex;
+  gap: 40px;
+  flex-wrap: wrap;
+}
+
+.timeline-item {
+  text-align: center;
+  width: 150px;
+}
+
+.timeline-item span {
+  font-size: 22px;
+  font-weight: bold;
+  color: orange;
+}
+
+.timeline-item p {
+  margin-top: 15px;
+  color: #444;
+  line-height: 25px;
+}
