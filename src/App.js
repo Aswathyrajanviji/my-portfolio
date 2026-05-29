@@ -25,7 +25,7 @@ function App() {
 
   return (
 
-    <BrowserRouter basename="/my-portfolio">
+    <BrowserRouter >
 
       <Routes>
         {/* Home Page */}

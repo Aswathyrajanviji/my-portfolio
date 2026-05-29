@@ -24,11 +24,11 @@ function Home() {
 
         <div className="home-buttons">
 
-          <a href="/my-portfolio/#projects">
+          <a href="#projects">
             <button>View My Work</button>
           </a>
 
-          <a href="/my-portfolio/#contact">
+          <a href="#contact">
             <button>Contact Me</button>
           </a>
         </div>

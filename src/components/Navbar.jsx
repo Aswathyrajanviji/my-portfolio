@@ -14,49 +14,49 @@ function Navbar() {
       <ul className="nav-links">
 
         <li>
-          <a href="/my-portfolio">
+          <a href="/">
             Home
           </a>
         </li>
 
         <li>
-          <a href="/my-portfolio/#about">
+          <a href="#about">
             About
           </a>
         </li>
 
         <li>
-          <a href="/my-portfolio/#skills">
+          <a href="#skills">
             Skills
           </a>
         </li>
 
         <li>
-          <a href="/my-portfolio/#projects">
+          <a href="#projects">
             Projects
           </a>
         </li>
 
         <li>
-          <a href="/my-portfolio/#uiux">
+          <a href="#uiux">
             UI/UX
           </a>
         </li>
 
         <li>
-          <a href="/my-portfolio/#photography">
+          <a href="#photography">
             Photography
           </a>
         </li>
 
         <li>
-          <a href="/my-portfolio/#resume">
+          <a href="#resume">
             Resume
           </a>
         </li>
 
         <li>
-          <a href="/my-portfolio/#contact">
+          <a href="#contact">
             Contact
           </a>
         </li>
