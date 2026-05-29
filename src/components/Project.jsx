@@ -33,7 +33,7 @@ function Project() {
             A project based on Kerala palaces that presents historical beauty, traditional architecture, and cultural heritage through photography.
           </p>
 
-          <a href="/My_Portfolio_Website/palace-project">
+          <a href="/my-portfolio/palace-project">
 
             <button>
               View Project
@@ -62,7 +62,7 @@ function Project() {
             A blog application that allows users to create, manage, and explore articles with a simple and user-friendly design.
           </p>
 
-          <a href="/My_Portfolio_Website/blog-project">
+          <a href="/my-portfolio/blog-project">
 
             <button>
               View Project
@@ -89,7 +89,7 @@ function Project() {
             A modern and user-friendly mobile news application UI/UX design created using Figma for browsing categories,articles with a clean and interactive interface.
           </p>
 
-          <a href="/My_Portfolio_Website/uiux-project">
+          <a href="/my-portfolio/uiux-project">
 
             <button>
               View Project
